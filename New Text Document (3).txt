@@ -1,0 +1,14 @@
+VERSION BUILD=1011 RECORDER=CR
+URL GOTO=https://www.youtube.com/watch?v=gdLhTDN7fF4&list=PLmRtl1GPPfTxTQBwaC-kwSMafnbVyI35A
+WAIT SECONDS=10
+URL GOTO=javascript:window.scrollBy(0,0.30*window.innerHeight)
+WAIT SECONDS=15
+URL GOTO=javascript:window.scrollBy(0,0.-30*window.innerHeight)
+WAIT SECONDS=3600
+URL GOTO=https://www.youtube.com/watch?v=qZyXEaOZoEI&list=PLj3XtYErxFWf5tvSPQMYRKmdeqeAM-C6G
+WAIT SECONDS=10
+URL GOTO=javascript:window.scrollBy(0,0.30*window.innerHeight)
+WAIT SECONDS=15
+URL GOTO=javascript:window.scrollBy(0,0.-30*window.innerHeight)
+WAIT SECONDS=3600
+URL GOTO=https://www.youtube.com/watch?v=7E71PcEwFTE&list=PLYv8ykdntWSwroxPF-vjtchvuRlcHtjF6
